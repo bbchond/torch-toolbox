@@ -51,7 +51,7 @@ pip install torchtoolbox
 ```
 If you want to install the nightly version:
 ```shell
-pip install -U git+https://github.com/PistonY/torch-toolbox.git@master
+pip install -U git+https://github.com/bbchond/torch-toolbox.git@master
 ```
 ## Todo
 - [x] cv2 transforms.
